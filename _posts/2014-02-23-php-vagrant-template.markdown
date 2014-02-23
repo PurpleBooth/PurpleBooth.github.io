@@ -7,7 +7,7 @@ categories: php puppet vagrant devops
 
 So I finally got sick of creating new puppet for every PHP project I started.
 
-I created a template project to create a Centos 6.5 VM with PHP 5.5 installed. Should help get new projects off the ground a little faster.
+I created a [template project](https://github.com/PurpleBooth/vagrant-puppet-centos-6.5-php5.5-template) to create a Centos 6.5 VM with PHP 5.5 installed. Should help get new projects off the ground a little faster.  Check it out [here](https://github.com/PurpleBooth/vagrant-puppet-centos-6.5-php5.5-template).
 
 Configuring
 -----------
